@@ -4,5 +4,5 @@ Python implementation for deck of cards.
 already put a test in `run.py`, simply checkout the repo and run `python run.py` under `src`:
 
 # Env
-Python 3 tested
+Python 3
 
